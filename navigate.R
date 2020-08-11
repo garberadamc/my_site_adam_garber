@@ -10,7 +10,7 @@ blogdown::hugo_version()
 # serve_site() # to refresh the website
 #################################################
 
-serve_site()
+blogdown::serve_site()
 
 # NAVIGATION:
 
