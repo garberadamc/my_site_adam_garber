@@ -15,7 +15,6 @@ education:
     year: 2007
 email: "agarber@ucsb.edu"
 interests:
-- Data Analysis & R
 - Mixture Modeling
 - Structural Equation Modeling
 - Special Education
@@ -28,9 +27,6 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '#contact'
-- icon: cv
-  icon_pack: ai
-  link: 
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/Adam_C_Garber
