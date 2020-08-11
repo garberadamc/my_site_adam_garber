@@ -1,0 +1,37 @@
+---
+title: "A surfR's story!"
+author: "Adam Garber"
+date: "8/3/2020"
+output: 
+  html_document:
+    includes:
+      in_header: header.html
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Welcome fellow surfR's
+
+![]
+
+I have a story share about 2 surfers but I am going to need your help along the ...
+
+The first task is that we are going to need some names for our story. You will be the main character in this adventure but we will also need you to choose someone to bring along with you. Feel free to pick a friend, a sibling, or another family member!
+
+<!---LEARNR EX 1-->
+
+<iframe style="margin:0 auto; min-width: 100%;" id="myIframe1" class="interactive" src="https://adam-cg.shinyapps.io/learnr-app1/" scrolling="no" frameborder="no"></iframe>
+
+<!---------------->
+
+
+
+
+
+
+
+<script>
+  iFrameResize({}, ".interactive");
+</script>

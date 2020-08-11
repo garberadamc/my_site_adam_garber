@@ -4,7 +4,7 @@ authors:
 bio: My research interests include Structural Equation Modeling, Mixture Modeling and Special Education
 education:
   courses:
-  - course: PhD in Education with Emphases in Quantitative Methods & Cognitive Science
+  - course: PhD in Education <br /> emphases: Quantitative Methods & Cognitive Science
     institution: University of California, Santa Barbara
     year: (current program)
   - course: MA in Education
@@ -42,6 +42,5 @@ user_groups:
 - Visitors
 ---
 
-Adam Garber is a graduate student of Education at the UCSB Latent Variable group Lab. His research interests include research methods, statistics and special education. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Adam Garber is a graduate student of Education at the UCSB Latent Variable group Lab. His research interests include research methods, applied statistics and special education. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
