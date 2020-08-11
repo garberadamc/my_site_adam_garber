@@ -30,7 +30,7 @@ social:
   link: '#contact'
 - icon: cv
   icon_pack: ai
-  link: https://add-cv-here
+  link: 
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/Adam_C_Garber
