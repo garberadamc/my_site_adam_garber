@@ -4,10 +4,10 @@ authors:
 bio: My research interests include Structural Equation Modeling, Mixture Modeling and Special Education
 education:
   courses:
-  - course: PhD in Education | Emphases Quantitative Methods & Cognitive Science
+  - course: PhD in Education, Emphases Quantitative Methods and Cognitive Science
     institution: University of California, Santa Barbara
     year: (current program)
-  - course: MA in Education | Ecological Expectations of Students with Perception of Disability - A Latent Class Multi-Informant Mediation Analysis
+  - course: MA in Education
     institution: University of California, Santa Barbara
     year: 2019
   - course: BA in Psychology
@@ -15,7 +15,7 @@ education:
     year: 2007
 email: "agarber@ucsb.edu"
 interests:
-- Data Analysis / R
+- Data Analysis & R
 - Mixture Modeling
 - Structural Equation Modeling
 - Special Education
@@ -30,7 +30,7 @@ social:
   link: '#contact'
 - icon: cv
   icon_pack: ai
-  link: 
+  link: https://add-cv-here
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/Adam_C_Garber
@@ -47,4 +47,6 @@ user_groups:
 ---
 
 Adam Garber is a graduate student of Education at the UCSB Latent Variable group Lab. His research interests include research methods, applied statistics and special education. 
+
+
 
