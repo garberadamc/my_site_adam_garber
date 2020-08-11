@@ -4,10 +4,10 @@ authors:
 bio: My research interests include Structural Equation Modeling, Mixture Modeling and Special Education
 education:
   courses:
-  - course: PhD in Education <br /> emphases: Quantitative Methods & Cognitive Science
+  - course: PhD in Education | Emphases Quantitative Methods & Cognitive Science
     institution: University of California, Santa Barbara
     year: (current program)
-  - course: MA in Education
+  - course: MA in Education | Ecological Expectations of Students with Perception of Disability - A Latent Class Multi-Informant Mediation Analysis
     institution: University of California, Santa Barbara
     year: 2019
   - course: BA in Psychology
@@ -15,6 +15,7 @@ education:
     year: 2007
 email: "agarber@ucsb.edu"
 interests:
+- Data Analysis / R
 - Mixture Modeling
 - Structural Equation Modeling
 - Special Education
@@ -27,15 +28,18 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '#contact'
+- icon: cv
+  icon_pack: ai
+  link: 
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://twitter.com/Adam_C_Garber
+- icon: chart-bar
+  icon_pack: fa
+  link: https://garberadamc.github.io/project-site/
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/garberadamc
 superuser: true
 user_groups:
 - Researchers
